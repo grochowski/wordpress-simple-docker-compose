@@ -1,0 +1,4 @@
+.DS_Store
+.env
+db_data
+wp_data
